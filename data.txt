@@ -1,0 +1,6 @@
+id,name,department,salary,hire_date
+101,Alice Johnson,Engineering,95000,2022-03-15
+102,Bob Smith,Marketing,72000,2021-06-22
+103,Charlie Davis,Design,81000,2023-01-10
+104,Diana Prince,Engineering,110000,2020-11-05
+105,Evan Wright,Sales,65000,2022-08-30
